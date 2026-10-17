@@ -1,7 +1,7 @@
 <div align="center">
 
-  <img width="240" height="203" alt="RyNxt Logo" src="https://rynxt.com/assets/images/new_logo_3.png" style="mix-blend-mode: screen;" />
-  
+<img width="240" height="203" alt="RyNxt Logo" src="https://raw.githubusercontent.com/mohammad-javad-asadi/rynxt/main/logo.png" style="mix-blend-mode: screen;" />
+
   <h1 style="font-size: 2.8em; font-weight: 800; margin-bottom: 5px; letter-spacing: -1px;">RyNxt</h1>
   <p><strong>AI-Powered PC & Laptop Gaming Optimizer | Competitive FPS Booster & Latency Stabilizer</strong></p>
 
